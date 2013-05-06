@@ -48,8 +48,8 @@
 				<key>runningsubtext</key>
 				<string>calculating ...</string>
 				<key>script</key>
-				<string>import workflow
-workflow.main('''{query}''')</string>
+				<string>import suggest
+suggest.main('''{query}''')</string>
 				<key>subtext</key>
 				<string>uc from-number from-unit to-unit to-unit ...</string>
 				<key>title</key>
