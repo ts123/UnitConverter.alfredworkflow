@@ -11,4 +11,4 @@ UnitConverter.alfredworkflow
 ## Dependencies
 
 - alfred.py 
- - https://github.com/phyllisstein/alp
+ - https://github.com/nikipore/alfred-python
